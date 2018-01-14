@@ -6,14 +6,22 @@ a few cryptools
 Holds your account linkups
 
 exchanges set up:
-gdaxaccount
+
+    gdaxaccount
 
 exchanges to be set up:
-binance
-(taking requests)
+    
+    binance
+    
+    (taking requests)
+    
 
 ### GdaxAccount
 parameters:
+
+
     key = account key found on gdax
+
     pp = pass phrase from gdax
+
     sk = 64 char secret from account api linking
