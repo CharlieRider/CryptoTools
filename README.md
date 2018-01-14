@@ -16,8 +16,10 @@ exchanges to be set up:
     
 
 ### GdaxAccount
-parameters:
     GdaxAccount(key,pp,sk)
-    key = account key found on gda  x
+
+parameters:
+    
+    key = account key found on gdax
     pp = pass phrase from gdax
     sk = 64 char secret from account api linking
