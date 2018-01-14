@@ -7,12 +7,11 @@ Holds your account linkups
 
 exchanges set up:
 
-    gdaxaccount
+    gdax
 
 exchanges to be set up:
     
     binance
-    
     (taking requests)
     
 
@@ -21,7 +20,5 @@ parameters:
 
 
     key = account key found on gdax
-
     pp = pass phrase from gdax
-
     sk = 64 char secret from account api linking
